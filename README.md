@@ -1,2 +1,2 @@
-# open-huca-skin-
+# open-huca-skin
 open source tactile skin with force and shape sensing, under $10 per finger. Built to be fabricated by anyone, integrated from the ground up into soft/pseudo-rigid robotic structures. In progress...
