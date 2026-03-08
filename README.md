@@ -116,11 +116,6 @@ This work synthesizes and extends the following:
 
 - **AnySkin** — plug-and-play magnetic tactile skin with cross-instance generalizability for robot learning. DOI: 10.48550/arxiv.2409.08276
 
-<div align="center">
-  <img src="https://any-skin.github.io/static/images/anyskin_fig1_portrait.png" width="600" alt="AnySkin sensor overview"/>
-  <br><em>AnySkin — magnetic tactile skin decoupling sensing electronics from the sensing interface. Source: Bhirangi et al., NYU 2024.</em>
-</div>
-
 - **GelSight** — vision-based optical tactile sensor using elastomer membrane deformation for high-resolution geometry and force estimation. DOI: 10.3390/s17122762
 
 - **MetaSense** — sensing capabilities integrated directly into 3D-printed mechanical metamaterial structures via conductive shear cells and capacitive measurement. DOI: 10.1145/3472749.3474806
